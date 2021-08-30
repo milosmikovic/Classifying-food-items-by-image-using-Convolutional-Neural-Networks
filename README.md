@@ -28,6 +28,12 @@ Other packages and libraries used: [Keras](https://keras.io/), [Matplotlib](http
 ## Dataset location
 Location: http://aisdatasets.informatik.uni-freiburg.de/freiburg_groceries_dataset/
 
+## ResNet 150v2
+
+model: https://drive.google.com/drive/folders/1sHzLdx-7-1xX-GiQXFrhyt4ISd589Edp?usp=sharing
+
+model weigths: https://drive.google.com/drive/folders/1fKk78iX7MYWhw6OVYpj7kRwPkXC9u-Jo?usp=sharing
+
 ## VGG16
 Model and model weigths are added to repository
 
