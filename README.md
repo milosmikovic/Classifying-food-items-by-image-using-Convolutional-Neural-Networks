@@ -35,6 +35,8 @@ Other packages and libraries used: [Keras](https://keras.io/), [Matplotlib](http
 ## Dataset location
 Location: http://aisdatasets.informatik.uni-freiburg.de/freiburg_groceries_dataset/
 
+# CNN architectures
+
 ## ResNet 150v2
 
 model: https://drive.google.com/drive/folders/1sHzLdx-7-1xX-GiQXFrhyt4ISd589Edp?usp=sharing
