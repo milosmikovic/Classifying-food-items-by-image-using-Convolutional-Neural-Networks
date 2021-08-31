@@ -14,7 +14,7 @@ Dataset is a dataset consisting of 4,947 256x256 RGB
 images covering 25 different classes of groceries, with at
 least 97 images per class. Images are collected from real-world settings at different stores and apartments. In contrast to existing groceries datasets,
 dataset includes a large variety of perspectives, lighting conditions, and degrees of clutter. 
-All models are made with image rescaling to 150x150(x3) due to hardware limitations. The CNN architectures used are: vgg16, alexNet, resNet. 
+All models are made with image rescaling to 150x150(x3) due to hardware limitations. The CNN architectures used are: vgg16, vgg19, alexNet, resNet. 
 All ipynb files are almost identical but contain different models and were added to display different model results.
 
 # Technologies used
@@ -27,6 +27,12 @@ Other packages and libraries used: [Keras](https://keras.io/), [Matplotlib](http
 
 ## Dataset location
 Location: http://aisdatasets.informatik.uni-freiburg.de/freiburg_groceries_dataset/
+
+## ResNet 150v2
+
+model: https://drive.google.com/drive/folders/1sHzLdx-7-1xX-GiQXFrhyt4ISd589Edp?usp=sharing
+
+model weigths: https://drive.google.com/drive/folders/1fKk78iX7MYWhw6OVYpj7kRwPkXC9u-Jo?usp=sharing
 
 ## VGG16
 Model and model weigths are added to repository
