@@ -17,6 +17,13 @@ dataset includes a large variety of perspectives, lighting conditions, and degre
 All models are made with image rescaling to 150x150(x3) due to hardware limitations. The CNN architectures used are: vgg16, vgg19, alexNet, resNet. 
 All models ipynb files are almost identical but contain different models and were added to display different model results.
 
+Models: alexNet.ipynb, resNet150v2.ipynb, vgg16.ipynb, vgg19.ipynb
+
+Simple model testing: testModels.ipynb
+
+Testing different output layers of vgg16 (with some hyperparameter tuning) and their results: vgg16NetMaker.ipynb
+
+
 # Technologies used
 Codding language is [Python](https://www.python.org/)
 
